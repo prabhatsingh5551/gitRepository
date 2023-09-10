@@ -15,5 +15,6 @@ public class JavaClass1 {
 		// git merge 2 
 		
 		// git rebase 1 
+		// git rebase 2 
 	}
 }
