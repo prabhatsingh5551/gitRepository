@@ -25,6 +25,6 @@ public class JavaClass1 {
 		//first megre from branch2
 		
 		//frist commit from branch3
-		
+		//second commit from branch3
 	}
 }
