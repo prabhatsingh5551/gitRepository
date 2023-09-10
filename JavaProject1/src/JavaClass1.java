@@ -7,5 +7,7 @@ public class JavaClass1 {
 		//Second Secdon commit
 		//Second Secdon commit
 		//Second Secdon commit rebase
+	
+		//Second Secdon commit master
 	}
 }
