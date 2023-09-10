@@ -28,5 +28,6 @@ public class JavaClass1 {
 		//second commit from branch3
 	
 		//First commit from master
+		//Second commit from master
 	}
 }
