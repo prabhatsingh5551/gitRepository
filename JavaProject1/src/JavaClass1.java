@@ -26,5 +26,7 @@ public class JavaClass1 {
 		
 		//frist commit from branch3
 		//second commit from branch3
+		
+		//commit from branch3
 	}
 }
