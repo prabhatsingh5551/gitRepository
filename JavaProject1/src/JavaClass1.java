@@ -9,5 +9,8 @@ public class JavaClass1 {
 		//Second Secdon commit rebase
 		
 		//Second Secdon commit rebase 1
+
+
+		// git merge 1 
 	}
 }
